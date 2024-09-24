@@ -15,7 +15,7 @@ body {
 
 @font-face {
     font-family: 'adineuePRO Bold';
-    src: url('./adineuePRO.ttf') format('truetype');
+    src: url('./fonts/adineuePRO.ttf') format('truetype');
     font-weight: bolder;
 }
 
@@ -563,12 +563,12 @@ button {
     }
 
     .presentation h1 {
-        font-size: 32px;
+        font-size: 68px;
         max-width: 85%;
     }
 
     .presentation p {
-        font-size: 15px;
+        font-size: 22px;
         max-width: 90%;
     }
 
