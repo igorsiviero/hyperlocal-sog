@@ -579,6 +579,18 @@ button {
     .center-section .container p {
         font-size: 16px;
     }
+
+    .center-section2 .container h2 {
+        font-size: 18px;
+    }
+
+    .center-section2 .container p {
+        font-size: 16px;
+    }
+
+    .center-section2 .container {
+        max-width: 25%;
+    }
 }
 
 @media screen and (max-width: 1024px) {
@@ -601,6 +613,11 @@ button {
     .center-section .container {
         max-width: 45%;
     }
+
+    .center-section2 .container {
+        max-width: 45%;
+    }
+
 
     .presentation h1 {
         font-size: 20px;
@@ -638,6 +655,11 @@ button {
         margin-left: -5px;
     }
 
+    .center-section2 .container {
+        max-width: 85%;
+        margin-left: -5px;
+    }
+
     .presentation h1 {
         font-size: 22px;
     }
@@ -670,6 +692,11 @@ button {
 
 
     .center-section .container {
+        margin: 10px 0;
+        margin-left: -5px;
+    }
+
+    .center-section2 .container {
         margin: 10px 0;
         margin-left: -5px;
     }
