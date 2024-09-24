@@ -15,7 +15,7 @@ body {
 
 @font-face {
     font-family: 'adineuePRO Bold';
-    src: url('./fonts/adineuePRO.ttf') format('truetype');
+    src: url('./adineuePRO.ttf') format('truetype');
     font-weight: bolder;
 }
 
@@ -23,7 +23,7 @@ section.cadastro {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('./Assets/section1.png'); 
+    background-image: url('./section1.png'); 
     background-size: cover;
     height: 100vh; 
 }
@@ -310,7 +310,7 @@ section.entre-em-contato {
     padding: 10px 10px 10px 10px;
     color: white;
     background-size: cover;
-    background-image: url('./Assets/section2.png'); 
+    background-image: url('./section2.png'); 
 }
 
 .entre-em-contato .entrar-contato {
