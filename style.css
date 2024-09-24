@@ -15,7 +15,7 @@ body {
 
 @font-face {
     font-family: 'adineuePRO Bold';
-    src: url('./fonts/adineuePRO.ttf') format('truetype');
+    src: url('./adineuePRO.ttf') format('truetype');
     font-weight: bolder;
 }
 
